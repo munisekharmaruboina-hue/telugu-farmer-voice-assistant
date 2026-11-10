@@ -1,0 +1,86 @@
+CROP: Banana
+TELUGU NAME: అరటి
+CROP TYPE: Fruit crop
+
+GENERAL INFORMATION:
+Banana is an important fruit crop.
+Growth depends on variety, soil, water availability,
+planting material and nutrient management.
+
+COMMON CROP PROBLEMS:
+1. Sigatoka leaf spot: spots and drying may appear on leaves.
+2. Fusarium wilt: yellowing and wilting may occur.
+3. Bunchy top: leaves may become narrow and crowded
+   near the top of the plant.
+4. Root problems: poor growth and plant instability may occur.
+5. Fruit damage: fruits may show abnormal marks or rotting.
+
+SAFE PRECAUTIONS:
+- Use healthy planting material from reliable sources.
+- Inspect leaves and pseudostems regularly.
+- Check drainage and avoid prolonged water stagnation.
+- Remove dead leaves when appropriate.
+- Do not move suspected infected planting material
+  to other fields.
+- Avoid applying chemicals without identifying the cause.
+
+INFORMATION TO COLLECT:
+- Variety.
+- Plant age.
+- Whether the plant is in vegetative or bunch stage.
+- Leaf spots, yellowing or bunchy growth.
+- Whether one plant or many plants are affected.
+- Irrigation and drainage conditions.
+
+FERTILIZER SAFETY:
+Nutrient recommendations depend on variety,
+plant age, soil test and local horticultural guidance.
+
+SOURCES:
+TNAU Agritech - Tropical fruit crop production
+and disease management information.
+
+CROP CALENDAR - BANANA:
+
+Banana is a perennial fruit crop.
+Planting time depends on variety, planting material,
+irrigation, rainfall and local climate.
+
+ANDHRA PRADESH REFERENCE:
+
+The Andhra Pradesh Farmer's Handbook on Basic
+Agriculture gives 15 June to 15 July as an
+optimum banana planting period.
+
+Other agricultural references mention May planting
+or May-June and September-October periods.
+These periods are not confirmed as suitable
+for every district in Andhra Pradesh.
+
+IMPORTANT:
+- Avoid planting during heavy rainfall and
+  waterlogged field conditions.
+- Ensure good field drainage.
+- Tissue culture plants and sucker planting
+  may have different planting requirements.
+- Do not treat one calendar period as suitable
+  for every variety and district.
+
+Ask the farmer:
+- Which district?
+- Which banana variety?
+- Are they using tissue culture plants or suckers?
+- Is the field rainfed or irrigated?
+
+Do not give a fixed planting date without
+considering local conditions.
+
+SOURCES:
+1. Andhra Pradesh Farmer's Handbook on Basic Agriculture:
+   https://www.apagrisnet.gov.in/pdf/farmerbook.pdf
+
+2. ICAR Kharif Agro-Advisory:
+   https://icar.org.in/sites/default/files/2022-09/Kharif-agro-advisory-2022.pdf
+
+3. National Horticulture Board - Banana:
+   https://www.nhb.gov.in/pdf/fruits/banana/ban010.pdf

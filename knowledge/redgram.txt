@@ -1,0 +1,102 @@
+CROP: Redgram
+TELUGU NAME: కందులు
+ALTERNATE NAME: Pigeonpea / Tur
+CROP TYPE: Pulse / Legume crop
+
+GENERAL INFORMATION:
+Redgram is an important pulse crop.
+It is grown under different rainfall and soil conditions.
+Crop performance depends on variety, sowing time,
+soil moisture and pest management.
+
+COMMON CROP PROBLEMS:
+1. Fusarium wilt: plants may yellow and wilt.
+2. Sterility mosaic: plants may show excessive branching
+   and reduced flowering.
+3. Pod borer: caterpillars may damage flowers and pods.
+4. Pod fly: larvae may damage developing seeds.
+5. Waterlogging: roots may be affected and plants may wilt.
+
+SAFE PRECAUTIONS:
+- Inspect leaves, flowers and pods regularly.
+- Check for caterpillars and pod damage.
+- Maintain proper field drainage.
+- Monitor plants for unusual yellowing and wilting.
+- Remove severely affected plant material appropriately.
+- Avoid unnecessary pesticide applications.
+
+INFORMATION TO COLLECT:
+- Crop age and variety.
+- Rainfed or irrigated crop.
+- Whether flowering or pod formation has started.
+- Presence of caterpillars or damaged pods.
+- Whether plants are yellowing or wilting.
+- Whether symptoms are spreading across the field.
+
+FERTILIZER SAFETY:
+Use soil-test-based recommendations matching
+the local soil and crop stage.
+
+SOURCES:
+ICAR - Andhra Pradesh agricultural information.
+TNAU Agritech - Redgram crop production information.
+CROP CALENDAR - REDGRAM:
+
+Redgram (Pigeonpea) is mainly cultivated
+as a Kharif rainfed crop in Andhra Pradesh.
+It can also be cultivated during Rabi
+in suitable regions with irrigation.
+
+1. KHARIF SOWING:
+
+General reference period:
+June 15 to August 15.
+
+Regional guidance:
+- Low rainfall zones: June.
+- Coastal Andhra zones: July to August.
+- YSR Kadapa research: July first or second
+  fortnight was suitable for tested long-
+  and medium-duration varieties under
+  the studied rainfed conditions.
+
+2. RABI SOWING:
+
+General reference period:
+September 20 to October 20.
+
+Rabi cultivation is suitable only in
+appropriate regions and farming conditions.
+Irrigation availability and variety selection
+are important.
+
+IMPORTANT:
+- Redgram is generally directly sown using seeds.
+- Do not confuse direct sowing with nursery planting.
+- Sowing dates depend on district, rainfall,
+  soil moisture, variety and crop duration.
+- Do not present research results from one district
+  as recommendations for every district.
+- Do not assume Rabi cultivation is suitable
+  for every rainfed field.
+
+Ask the farmer:
+- Which district?
+- Is the crop rainfed or irrigated?
+- Which variety are you planning to grow?
+- Are you planning Kharif or Rabi cultivation?
+
+Do not invent fixed dates or fertilizer doses.
+
+SOURCES:
+1. RARS Tirupati - Package of Practices:
+   https://rarstpt.org/files/rars/package%20of%20practices/Pulses.pdf
+
+2. ANGRAU Super Kandi:
+   https://www.angraukandisagu.org/
+
+3. AP Seeds - Redgram:
+   https://apseeds.ap.gov.in/Website/RedGram.aspx
+
+4. ANGRAU-associated YSR Kadapa sowing study:
+   https://journalijpss.com/index.php/IJPSS/article/view/3483

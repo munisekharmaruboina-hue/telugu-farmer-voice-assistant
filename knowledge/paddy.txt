@@ -1,0 +1,95 @@
+CROP: Paddy
+TELUGU NAME: వరి
+CROP TYPE: Cereal / Food crop
+
+GENERAL INFORMATION:
+Paddy is an important food crop in Andhra Pradesh.
+Crop growth depends on variety, season, soil,
+water availability and crop management.
+
+COMMON CROP PROBLEMS:
+1. Leaf blast: spindle-shaped spots may appear on leaves.
+2. Sheath blight: lesions may develop near the leaf sheath.
+3. Bacterial leaf blight: leaves may show yellowing and drying.
+4. Gall midge: abnormal swelling may appear in shoots.
+5. Water stress: poor water availability can affect crop growth.
+
+SAFE PRECAUTIONS:
+- Inspect the field regularly.
+- Observe leaves, stems, roots and panicles.
+- Avoid excessive or insufficient irrigation.
+- Keep field bunds and drainage channels in good condition.
+- Do not apply fertilizer or pesticide without identifying the problem.
+- Follow locally recommended crop-management practices.
+
+INFORMATION TO COLLECT:
+- Crop age and variety.
+- Kharif or Rabi season.
+- Transplanted or direct-seeded crop.
+- Irrigation and recent rainfall.
+- Which plant parts show symptoms?
+- Is the problem spreading across the field?
+
+FERTILIZER SAFETY:
+Fertilizer recommendations depend on soil test,
+season, variety and crop growth stage.
+Do not generate a fertilizer dose without a matching
+verified Andhra Pradesh recommendation.
+
+SOURCES:
+ICAR - Andhra Pradesh agricultural information.
+ICAR - Kharif Agro-Advisories 2025.
+TNAU Agritech - Rice disease management.
+
+CROP CALENDAR - ANDHRA PRADESH:
+
+Paddy is cultivated during both Kharif and Rabi
+seasons in Andhra Pradesh.
+
+KHARIF:
+Paddy cultivation generally follows the southwest
+monsoon season.
+
+RABI:
+Paddy cultivation is also practiced in areas where
+irrigation water is available.
+
+HISTORICAL DISTRICT REFERENCE:
+An ANGRAU/ICAR-CRIDA contingency plan for the
+former Vizianagaram district (2011) gives these
+reference sowing windows:
+
+- Kharif rainfed: June first fortnight to August
+  first fortnight.
+- Kharif irrigated: June first fortnight to July
+  second fortnight.
+- Rabi irrigated: November second fortnight to
+  January first fortnight.
+
+These historical district-specific dates must not
+be treated as current statewide recommendations.
+
+Sowing and nursery timing may differ from the
+transplanting date.
+
+Suitable timing depends on:
+- Current district and agro-climatic zone.
+- Kharif or Rabi season.
+- Direct sowing or transplanting.
+- Irrigation availability.
+- Rainfall and water availability.
+- Variety and crop duration.
+
+Do not give a fixed sowing or transplanting date
+without sufficient local information.
+
+Ask the farmer for their district, season and
+whether the crop is direct-seeded or transplanted.
+
+SOURCES:
+1. Andhra Pradesh State Seeds Development Corporation:
+   https://apseeds.ap.gov.in/Website/Paddy.aspx
+
+2. ICAR-CRIDA / ANGRAU:
+   Agriculture Contingency Plan for Vizianagaram District, 2011:
+   https://www.icar-crida.res.in/CP-2012/statewiseplans/Andhra%20pradesh%20%28Pdf%29/ANGRAU%2C%20Hyderabad/AP22-Vizayanagaram%2031.1.2011.pdf

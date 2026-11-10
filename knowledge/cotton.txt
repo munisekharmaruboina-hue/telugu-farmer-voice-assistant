@@ -1,0 +1,74 @@
+CROP: Cotton
+TELUGU NAME: పత్తి
+CROP TYPE: Commercial / Fibre crop
+
+GENERAL INFORMATION:
+Cotton is an important commercial crop in Andhra Pradesh.
+Its growth depends on variety, soil, rainfall,
+irrigation and pest management.
+
+COMMON CROP PROBLEMS:
+1. Pink bollworm: larvae damage developing cotton bolls.
+2. Whitefly: small white insects may be seen under leaves.
+3. Aphids: small insects may cluster on tender plant parts.
+4. Jassids: leaf edges may turn yellow or reddish.
+5. Leaf spots and wilt: fungal or bacterial problems
+   may cause spots, yellowing or plant drying.
+
+SAFE PRECAUTIONS:
+- Inspect flowers, squares and cotton bolls regularly.
+- Check the underside of leaves for sucking pests.
+- Monitor pheromone traps where recommended.
+- Remove crop residues according to local guidance.
+- Follow crop rotation and integrated pest management.
+- Do not spray pesticides just because insects are visible.
+
+INFORMATION TO COLLECT:
+- Crop age and variety.
+- Rainfed or irrigated crop.
+- Whether insects are present on leaves or inside bolls.
+- Whether flowers or bolls are damaged.
+- Number of affected plants and field distribution.
+
+FERTILIZER SAFETY:
+Use recommendations matching the cotton type,
+soil test and local agricultural advisory.
+
+SOURCES:
+ICAR - Kharif Agro-Advisories 2025.
+ICAR - Andhra Pradesh agricultural information.
+
+
+CROP CALENDAR - ANDHRA PRADESH:
+
+Cotton is mainly cultivated during the Kharif season.
+
+REFERENCE SOWING PERIODS:
+
+For red soils:
+June to the first fortnight of July.
+
+For black soils:
+July to the first fortnight of August.
+
+These periods are based on the ICAR-CICR
+Package of Practices for Cotton Cultivation
+in Andhra Pradesh, 2023-2024.
+
+Actual sowing time depends on:
+- District and local rainfall.
+- Soil type.
+- Rainfed or irrigated cultivation.
+- Monsoon onset and soil moisture.
+
+Do not treat these periods as guaranteed dates
+for every location or cotton variety.
+
+Ask the farmer for their district, soil type
+and whether cultivation is rainfed or irrigated.
+
+SOURCE:
+ICAR-Central Institute for Cotton Research.
+Package of Practices for Cotton Cultivation
+in Andhra Pradesh, 2023-2024.
+https://cicr.org.in/wp-content/uploads/POP-AP-01.pdf

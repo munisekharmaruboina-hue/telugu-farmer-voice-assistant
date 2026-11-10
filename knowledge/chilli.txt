@@ -1,0 +1,85 @@
+CROP: Chilli
+TELUGU NAME: మిరప
+CROP TYPE: Spice / Horticultural crop
+
+GENERAL INFORMATION:
+Chilli is an important commercial horticultural crop.
+Crop health depends on variety, soil, irrigation,
+weather and pest management.
+
+COMMON CROP PROBLEMS:
+1. Thrips: leaf curling, scarring or silvery patches may occur.
+2. Mites: leaves may become curled or distorted.
+3. Leaf curl virus: leaves may curl and plants may become stunted.
+4. Anthracnose: dark sunken spots may appear on fruits.
+5. Fusarium wilt: plants may yellow and wilt.
+6. Fruit rot: affected fruits may become soft or discoloured.
+
+SAFE PRECAUTIONS:
+- Inspect young leaves and the underside of leaves.
+- Monitor flowers and fruits for damage.
+- Avoid excessive irrigation and water stagnation.
+- Remove fallen and severely diseased plant material safely.
+- Maintain suitable spacing and field sanitation.
+- Do not assume leaf curling always means a virus.
+
+INFORMATION TO COLLECT:
+- Crop age and variety.
+- Nursery or main-field stage.
+- Whether leaves are curled, spotted or yellow.
+- Whether insects are visible.
+- Whether fruits have dark spots or rotting.
+- Recent weather and irrigation.
+
+FERTILIZER SAFETY:
+Use soil-test-based recommendations suitable
+for the local region and crop stage.
+
+SOURCES:
+TNAU Agritech - Chilli disease information.
+TNAU Agritech - Vegetable crop disease management.
+CROP CALENDAR - CHILLI:
+
+Chilli can be cultivated under both rainfed
+and irrigated conditions.
+
+GENERAL REFERENCE PERIODS:
+
+KHARIF NURSERY SOWING:
+General reference period: May to June.
+
+MAIN-FIELD TRANSPLANTING:
+General reference period: July to August.
+
+Do not describe the transplanting period
+as the nursery sowing period.
+
+IRRIGATED CROPS:
+The advisory also mentions October or
+January-February sowing periods for irrigated crops.
+
+IMPORTANT:
+These are general ICAR reference periods.
+They are not confirmed district-specific
+recommendations for every part of Andhra Pradesh.
+
+Nursery sowing and main-field transplanting
+are different operations.
+
+Suitable timing depends on:
+- District and local climate.
+- Rainfed or irrigated cultivation.
+- Soil type and drainage.
+- Rainfall and soil moisture.
+- Chilli variety and crop purpose.
+
+Do not give a fixed date without sufficient
+local information.
+
+Ask the farmer for their district,
+cultivation method and whether they mean
+nursery sowing or main-field transplanting.
+
+SOURCE:
+ICAR - Kharif Agro-Advisories for Farmers 2025.
+https://icar.gov.in/sites/default/files/Circulars/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf

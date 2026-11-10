@@ -1,0 +1,128 @@
+
+CROP: Tomato
+TELUGU NAME: టమాట
+CROP TYPE: Vegetable crop
+
+GENERAL INFORMATION:
+Tomato is an important vegetable crop.
+It requires suitable soil, sunlight, irrigation
+and good field drainage.
+
+COMMON PESTS:
+1. Whitefly (తెల్లదోమ): Small white insects may be
+   visible on the undersides of leaves. They may fly
+   when the plant is disturbed. They can contribute
+   to the spread of tomato leaf curl viruses.
+2. Aphids (పేనుబంక): Small soft-bodied insects may
+   appear in groups on tender shoots and leaves.
+3. Thrips (తామర పురుగులు): Tiny insects may cause
+   silvery patches and leaf distortion.
+4. Fruit borer (కాయ తొలుచు పురుగు): Caterpillars may
+   damage tomato fruits.
+
+COMMON DISEASES AND PROBLEMS:
+1. Early blight: Brown spots with circular rings.
+2. Septoria leaf spot: Small spots with grey centres
+   and dark margins.
+3. Bacterial leaf spot: Water-soaked spots may develop.
+4. Fusarium wilt: Plants may yellow and wilt.
+5. Leaf curl: Leaves may curl and plants may become
+   stunted. Viral infection is one possible cause.
+6. Root-knot nematodes: Roots may develop abnormal knots.
+
+SAFE PRECAUTIONS:
+- Inspect old and new leaves separately.
+- Check the undersides of leaves for insects.
+- Observe whether white insects fly when plants are disturbed.
+- Check whether spots have rings or water-soaked edges.
+- Check whether plants are wilting despite moist soil.
+- Avoid water stagnation.
+- Monitor the spread of the problem.
+- Avoid unnecessary fertilizer and pesticide applications.
+- Do not diagnose a disease from one symptom alone.
+- Do not recommend chemical treatment without reliable
+  identification and locally verified guidance.
+
+INFORMATION TO COLLECT:
+- Crop age and variety.
+- Whether old or new leaves are affected.
+- Presence of spots, curling or wilting.
+- Whether white insects or other pests are visible.
+- Number of affected plants.
+- Whether the problem is spreading.
+- Irrigation and recent weather.
+
+FERTILIZER SAFETY:
+Recommendations depend on soil test,
+crop stage and local agricultural guidance.
+
+PESTICIDE SAFETY:
+Do not invent pesticide names, quantities or spray schedules.
+Use only verified recommendations for the identified pest
+and crop stage from authorized local agricultural sources.
+
+SOURCES:
+TNAU Agritech - Tomato disease information.
+TNAU Crop Production Guide - Horticulture.
+Pest information requires verification against
+current agricultural extension guidance.
+
+CROP CALENDAR - TOMATO:
+
+Tomato is generally cultivated during Kharif,
+Rabi and Summer seasons.
+
+NURSERY RAISING - ANDHRA PRADESH REFERENCE:
+
+Kharif: June to July.
+Rabi: October to November.
+Summer: January to February.
+
+TRANSPLANTING:
+
+Nursery sowing and main-field transplanting
+are two different operations.
+
+Healthy tomato seedlings are generally ready
+for transplanting around 25-30 days after sowing,
+depending on variety and seedling growth.
+
+Do not describe nursery sowing months as
+main-field transplanting months.
+
+For transplanting advice, first consider:
+- Date of nursery sowing.
+- Current age and growth of seedlings.
+- District and local weather.
+- Rainfed or irrigated cultivation.
+
+If the nursery sowing date is unknown,
+ask the farmer when the seedlings were sown.
+Do not invent a fixed transplanting date.
+
+IMPORTANT:
+Nursery sowing and main-field transplanting
+are different operations.
+
+These are general reference periods, not
+guaranteed dates for every Andhra Pradesh district.
+
+Suitable timing depends on:
+- District and local climate.
+- Season and rainfall.
+- Rainfed or irrigated cultivation.
+- Soil type and drainage.
+- Variety and seedling growth.
+
+Ask the farmer for their district and whether
+they mean nursery sowing or transplanting.
+
+Do not give a fixed date without sufficient
+local information.
+
+SOURCES:
+1. ICAR-Indian Institute of Vegetable Research:
+   https://icariivr.org.in/tomato/
+
+2. eChoupal Tomato Nursery Management:
+   https://echoupaladvisory.in/pop/tomato-nursery-management/

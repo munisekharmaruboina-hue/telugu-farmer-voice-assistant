@@ -1,0 +1,77 @@
+CROP: Maize
+TELUGU NAME: మొక్కజొన్న
+CROP TYPE: Cereal / Field crop
+
+GENERAL INFORMATION:
+Maize is grown for grain, food, feed and other uses.
+Crop performance depends on variety, season,
+soil fertility, water and pest management.
+
+COMMON CROP PROBLEMS:
+1. Fall armyworm: feeding damage and irregular holes
+   may appear on leaves, especially around the whorl.
+2. Leaf blight: elongated lesions may develop on leaves.
+3. Stalk rot: stems may become weak or decay.
+4. Water stress: leaf rolling and poor growth may occur.
+5. Nutrient problems: leaf colour and growth may change.
+
+SAFE PRECAUTIONS:
+- Inspect the whorl of young maize plants.
+- Look for feeding damage and insect larvae.
+- Monitor crop regularly, especially during early growth.
+- Maintain suitable field drainage.
+- Avoid unnecessary pesticide applications.
+- Follow integrated pest management guidance.
+
+INFORMATION TO COLLECT:
+- Crop age and variety.
+- Sowing date.
+- Whether damage is in the whorl or on older leaves.
+- Presence of larvae or insect droppings.
+- Whether plants are drying or breaking.
+- Recent rainfall and irrigation.
+
+FERTILIZER SAFETY:
+Nutrient requirements depend on soil test,
+crop variety, season and irrigation conditions.
+
+SOURCES:
+ICAR - Kharif Agro-Advisories 2025.
+TNAU Agritech - Maize crop production information.
+
+CROP CALENDAR - ANDHRA PRADESH:
+
+Maize can be cultivated during Kharif and Rabi seasons.
+
+KHARIF:
+The ANGRAU package of practices gives June 15 to July 15
+as the general Kharif sowing period.
+
+RABI:
+The ANGRAU package gives October 15 to November 15
+for Rayalaseema districts.
+For coastal Andhra Pradesh, it gives a period extending
+up to the first week of January.
+
+These are reference periods and not guaranteed dates
+for every district, variety or farming condition.
+
+Sowing time depends on:
+- District and local climate.
+- Onset and distribution of rainfall.
+- Rainfed or irrigated cultivation.
+- Soil moisture and drainage.
+- Suitable variety and crop duration.
+
+Do not give an exact sowing date without sufficient
+local information.
+
+Ask the farmer for their district and whether the crop
+is rainfed or irrigated.
+
+SOURCES:
+ANGRAU - Maize Package of Practices:
+https://www.rarstpt.org/files/rars/package%20of%20practices/MaizePackage.pdf
+
+ICAR - Kharif Agro-Advisory 2025:
+https://icar.gov.in/sites/default/files/2025-10/ICAR-En-Kharif-Agro-Advisories-for-Farmers-2025.pdf

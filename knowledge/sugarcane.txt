@@ -1,0 +1,101 @@
+CROP: Sugarcane
+TELUGU NAME: చెరకు
+CROP TYPE: Commercial / Industrial crop
+
+GENERAL INFORMATION:
+Sugarcane is a long-duration commercial crop.
+Growth depends on variety, planting material,
+soil fertility, irrigation and crop management.
+
+COMMON CROP PROBLEMS:
+1. Red rot: internal stem tissue may show red discoloration.
+2. Smut: a black whip-like structure may develop.
+3. Early shoot borer: young shoots may dry.
+4. Internode borer: holes and damage may appear
+   around sugarcane internodes.
+5. Water stress: leaf rolling and poor growth may occur.
+
+SAFE PRECAUTIONS:
+- Use healthy planting material.
+- Inspect young shoots and stems regularly.
+- Check for holes and unusual drying.
+- Maintain proper field drainage.
+- Remove diseased plants and residues according
+  to local agricultural guidance.
+- Do not use affected planting material for a new crop.
+
+INFORMATION TO COLLECT:
+- Variety and crop age.
+- Plant crop or ratoon crop.
+- Whether young shoots or mature stems are affected.
+- Presence of holes, black structures or red discoloration.
+- Irrigation and drainage conditions.
+
+FERTILIZER SAFETY:
+Recommendations depend on soil test,
+variety, crop duration and local recommendations.
+
+SOURCES:
+ICAR - Agricultural crop advisories.
+TNAU Agritech - Sugarcane crop production information.
+CROP CALENDAR - SUGARCANE:
+
+Sugarcane has different planting periods depending
+on the agro-climatic region and variety.
+
+1. COASTAL ANDHRA PRADESH:
+- General planting period: October to November.
+- Another planting period: second half of December
+  to the end of February.
+
+2. INTERIOR ANDHRA PRADESH:
+- General planting period: January to February.
+
+3. SOUTHERN ANDHRA PRADESH:
+An ANGRAU-associated research study in Chittoor
+district found:
+- January planting suitable for mid-late varieties.
+- February planting suitable for early varieties.
+
+These are research-based reference periods.
+Do not treat them as fixed recommendations
+for every district or variety.
+
+PLANT CROP AND RATOON CROP:
+
+Plant crop:
+The first sugarcane crop established using
+healthy sugarcane setts.
+
+Ratoon crop:
+The crop that grows again from the stubble
+after harvesting the previous sugarcane crop.
+
+Ratoon management and timing depend on
+the previous crop's harvest date, variety,
+crop health and local conditions.
+
+IMPORTANT:
+- Do not confuse plant crop with ratoon crop.
+- Do not give the plant crop planting calendar
+  as ratoon crop advice.
+- Consider district, variety, soil, irrigation,
+  rainfall and planting season.
+- Use healthy planting material.
+- Do not invent fertilizer doses or treatments.
+
+Ask the farmer:
+- Which district?
+- Which sugarcane variety?
+- Is this a new plant crop or a ratoon crop?
+- If ratoon, when was the previous crop harvested?
+
+SOURCES:
+1. eChoupal Sugarcane Advisory:
+   https://echoupaladvisory.in/sugarcane-sowing-en/
+
+2. ANGRAU-associated Chittoor district research:
+   https://bioinfopublication.org/pages/article.php?id=BIA0005840
+
+3. Sugarcane Package of Practices:
+   https://www.nitiforstates.gov.in/public-assets/Policy/policy_files/TNG1660A000065.pdf

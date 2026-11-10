@@ -1,0 +1,73 @@
+CROP: Groundnut
+TELUGU NAME: వేరుశెనగ
+CROP TYPE: Oilseed / Legume
+
+GENERAL INFORMATION:
+Groundnut is an important oilseed crop in Andhra Pradesh.
+Its growth is affected by soil conditions, rainfall,
+irrigation, seed quality and crop management.
+
+COMMON CROP PROBLEMS:
+1. Early leaf spot: small brown spots may appear on leaves.
+2. Late leaf spot: dark leaf spots may develop.
+3. Rust: reddish-brown pustules may appear on leaves.
+4. Stem or root rot: plants may wilt or dry.
+5. Bud necrosis: young plant parts may show abnormal growth.
+
+SAFE PRECAUTIONS:
+- Inspect both upper and lower leaf surfaces.
+- Monitor plants for leaf spots and rust-like symptoms.
+- Avoid unnecessary waterlogging.
+- Maintain field sanitation.
+- Remove severely affected plant debris appropriately.
+- Do not assume every yellow leaf is a nutrient deficiency.
+
+INFORMATION TO COLLECT:
+- Crop age.
+- Variety.
+- Rainfed or irrigated crop.
+- Leaf spots, yellowing or wilting.
+- Whether roots or stems are affected.
+- Whether symptoms occur in patches or throughout the field.
+
+FERTILIZER SAFETY:
+Use soil-test-based nutrient recommendations
+appropriate to the local soil and crop stage.
+
+SOURCES:
+ICAR - Andhra Pradesh agricultural information.
+TNAU Agritech - Groundnut disease management.
+
+CROP CALENDAR - ANDHRA PRADESH:
+
+Groundnut is mainly cultivated as a rainfed Kharif crop
+in Andhra Pradesh.
+
+The Andhra Pradesh State Seeds Development Corporation
+mentions May to June, depending on monsoon rainfall.
+
+ICAR-Indian Institute of Groundnut Research gives
+June 15 to July 31 as the Kharif sowing period
+and November to December for Rabi cultivation.
+
+These are general reference periods, not fixed dates
+for every district or farming condition.
+
+The suitable sowing period depends on:
+- District and local agro-climatic conditions.
+- Onset and distribution of rainfall.
+- Rainfed or irrigated cultivation.
+- Soil moisture and field conditions.
+
+Do not give an exact sowing date without sufficient
+local information.
+
+Ask the farmer for their district and whether the crop
+is rainfed or irrigated.
+
+SOURCES:
+1. Andhra Pradesh State Seeds Development Corporation:
+   https://apseeds.ap.gov.in/Website/Groundnut.aspx
+
+2. ICAR-Indian Institute of Groundnut Research:
+   https://icar-iigr.org.in/wp-content/uploads/2018/12/Package-of-Practices.pdf

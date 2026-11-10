@@ -1,0 +1,96 @@
+CROP: Mango
+TELUGU NAME: మామిడి
+CROP TYPE: Fruit / Orchard crop
+
+GENERAL INFORMATION:
+Mango is an important fruit crop in Andhra Pradesh.
+Orchard management depends on variety, tree age,
+soil, rainfall, irrigation and flowering season.
+
+COMMON CROP PROBLEMS:
+1. Powdery mildew: white powder-like growth may appear
+   on flowers or young plant parts.
+2. Anthracnose: dark spots may appear on leaves,
+   flowers or fruits.
+3. Mango hoppers: small insects may be seen around
+   flower panicles and tender shoots.
+4. Malformation: abnormal bunchy growth may occur
+   in shoots or flower panicles.
+5. Fruit drop: young fruits may fall for several reasons.
+
+SAFE PRECAUTIONS:
+- Inspect new shoots, leaves and flower panicles.
+- Monitor fruit development and fruit drop.
+- Remove fallen and diseased plant material appropriately.
+- Maintain orchard cleanliness.
+- Avoid unnecessary irrigation changes and chemical sprays.
+- Do not assume all fruit drop is caused by insects.
+
+INFORMATION TO COLLECT:
+- Tree age and variety.
+- Flowering, fruit-setting or fruit-development stage.
+- Whether symptoms affect leaves, flowers or fruits.
+- Presence of insects.
+- Whether many trees or only a few are affected.
+- Recent rainfall and irrigation.
+
+FERTILIZER SAFETY:
+Recommendations depend on tree age, soil test,
+variety and local horticultural guidance.
+
+SOURCES:
+TNAU Agritech - Mango disease management.
+TNAU Agritech - Tropical fruit crop information.
+
+CROP CALENDAR - MANGO:
+
+Mango is a perennial orchard crop.
+Planting, flowering and harvesting are three
+different stages and must not be confused.
+
+1. ORCHARD PLANTING - ANDHRA PRADESH:
+
+The general recommended planting period is
+June to July, at the beginning of the monsoon.
+
+In areas with heavy rainfall, planting may be
+taken up towards the end of the rainy season.
+
+Use healthy, grafted planting material from
+a reliable nursery.
+
+2. FLOWERING SEASON:
+
+Mango flowering in Andhra Pradesh generally
+occurs around December to February.
+The exact period varies with variety,
+local climate and orchard conditions.
+
+3. HARVESTING SEASON:
+
+Mango harvesting in Andhra Pradesh generally
+takes place from March to June.
+The period varies by variety and location.
+
+IMPORTANT:
+- Do not confuse orchard planting with flowering.
+- Do not confuse flowering with fruit harvesting.
+- These are general reference periods, not
+  guaranteed dates for every district.
+- Consider variety, district, rainfall,
+  irrigation and local climate.
+- Do not recommend withholding irrigation
+  or using chemicals merely to induce flowering.
+
+Ask the farmer whether they mean:
+orchard planting, flowering or fruit harvesting.
+
+SOURCES:
+1. Andhra Pradesh Horticulture Crop Practices Guide:
+   https://studylib.net/doc/7809820/mango---dr.-ysr-horticultural-university
+
+2. Andhra Pradesh RURBAN report:
+   https://rural.gov.in/sites/default/files/Andhra%20Pradesh%20-%20RURBAN.pdf
+
+3. Pradhan Mantri Fasal Bima Yojana - Fruit Harvesting Season:
+   https://pmfby.gov.in/pdf/aws_gui_cre.pdf
