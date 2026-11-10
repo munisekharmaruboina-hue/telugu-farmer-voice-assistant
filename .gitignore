@@ -7,3 +7,7 @@ __pycache__/
 *.backup
 .pytest_cache/
 .agents/
+tools/crop_prices.py
+tools/price_snapshot.json
+tools/set_price.py
+tools/snapshot.py
